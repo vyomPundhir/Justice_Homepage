@@ -42,6 +42,7 @@ nav div img{
   padding-bottom: 7px;
   padding-left: 17px;
   padding-right: 17px; 
+  cursor: pointer;
 }
 section div img{
   width: 800px;
